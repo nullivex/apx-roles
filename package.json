@@ -1,0 +1,49 @@
+{
+  "name": "apx-roles",
+  "version": "0.1.0",
+  "description": "Initializer for node-roles for APX API server",
+  "homepage": "https://github.com/snailjs/apx-roles",
+  "bugs": "https://github.com/snailjs/apx-roles/issues",
+  "authors": [
+    {
+      "name": "Bryan Tong",
+      "email": "contact@nullivex.com",
+      "homepage": "https://github.com/nullivex"
+    },
+    {
+      "name": "Tony Butler",
+      "email": "spudz76@gmail.com",
+      "homepage": "https://github.com/spudz76"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/snailjs/apx-roles.git"
+  },
+  "keywords": [
+    "roles",
+    "permissions",
+    "auth",
+    "apx"
+  ],
+  "engines": {
+    "node": ">=0.8.0"
+  },
+  "dependencies": {
+    "roles": "~0.0.4"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-contrib-jshint": "~0.7.1",
+    "grunt-contrib-watch": "~0.5.3",
+    "grunt-mocha-test": "~0.8.1",
+    "grunt-project-update": "~0.2.2",
+    "mocha": "~1.15.1",
+    "chai": "~1.8.1",
+    "jshint-stylish": "~0.1.3",
+    "apx": "~0.7.1"
+  },
+  "scripts": {
+    "test": "grunt test"
+  }
+}
