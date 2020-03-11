@@ -1,6 +1,6 @@
 {
   "name": "apx-roles",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Initializer for node-roles for APX API server",
   "homepage": "https://github.com/snailjs/apx-roles",
   "bugs": "https://github.com/snailjs/apx-roles/issues",

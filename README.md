@@ -1,5 +1,16 @@
-apx-roles [![Build Status](https://travis-ci.org/snailjs/apx-roles.png?branch=master)](https://travis-ci.org/snailjs/apx-roles)
+APX Roles
 ============
+
+## Kado
+
+STOP AND READ THIS
+
+APX or Apex is no longer maintained and is superseded by Kado.
+
+A new package is available to handle all your JavaScript needs.
+See [kado.org](https://kado.org) for details.
+
+## Summary
 
 Implementation of [node-roles](https://github.com/dresende/node-roles) through an APX intitializer. Provides `apx.roles`
 which can be used to test permissions.
